@@ -68,7 +68,8 @@ h1 {
 	font-weight: 500;
 	align-self: flex-start;
 	margin-left: 5px;
-	color: var(--Yellow);
+	color: black;
+	font-weight: bold;
 }
 
 .desc {
